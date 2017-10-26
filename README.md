@@ -105,3 +105,7 @@ git subtree push --prefix src origin gh-pages
 ```
 
 This will push the `src` folder up to GitHub on the `gh-pages` branch. After that, you should be able to open up `http://username.github.io/HTMLPortfolioProject`, where `username` is your GitHub username.
+
+
+When competed, final page, what to do next.
+https://www.codeschool.com/projects/build-a-portfolio-using-html-and-css/success
